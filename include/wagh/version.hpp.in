@@ -1,0 +1,12 @@
+#ifndef WAGH_HEADER_VERSION_HPP
+#define WAGH_HEADER_VERSION_HPP
+
+///////////////////////////////////////////////////////////////////////////////
+
+#define WAGH_VERSION_MAJOR ${VERSION_MAJOR}
+#define WAGH_VERSION_MINOR ${VERSION_MINOR}
+#define WAGH_VERSION_PATCH ${VERSION_PATCH}
+
+///////////////////////////////////////////////////////////////////////////////
+
+#endif
